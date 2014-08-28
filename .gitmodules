@@ -1,0 +1,6 @@
+[submodule "~/Desktop/Buckeye Current/CCS_Workspace/Test_Submodule/MCN_Library"]
+	path = ~/Desktop/Buckeye Current/CCS_Workspace/Test_Submodule/MCN_Library
+	url = https://github.com/BuckeyeCurrent/MCN_Library
+[submodule "MCN_Library"]
+	path = MCN_Library
+	url = https://github.com/BuckeyeCurrent/MCN_Library
